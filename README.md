@@ -66,27 +66,17 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 
 ### 🏆 *Certifications & Achievements*
 
-- *HackerRank Advanced SQL*: Expertise in writing complex SQL queries.
-- *AWS Cloud Architecting*: Certified by AWS Academy.
+- *HackerRank Moderate SQL*: Expertise in writing complex SQL queries.
 - *Palo Alto Networks Cybersecurity*: Certified in Cybersecurity Fundamentals.
 - *Published Research: *Blockchain Encryption using Biometric Authentication (GRENZE International Journal of Engineering and Technology).
 
 ---
 
-### 📈 *Professional Experience*
-
-- *Data Analyst Intern* at *VIEH Pvt. Ltd.* (June 2022 - July 2022):
-  - Gained hands-on experience in data manipulation and SQL.
-  
-- *IoT Intern* at *Anand Techno Creations* (June 2021 - July 2021):
-  - Developed IoT solutions for real-time monitoring systems.
-
----
 
 ### 📫 *Connect with Me*
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Jaishree%20Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jaishree-Yadav)](https://www.linkedin.com/in/jaishree-yadav)
-[![GitHub Badge](https://img.shields.io/badge/-anjanicoder-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/anjanicoder)](https://github.com/anjanicoder)
+[![GitHub Badge](https://img.shields.io/badge/-anjanicoder-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jayadavv)](https://github.com/Jayadavv)
 [![Streamlit Lok Sabha Election App](https://img.shields.io/badge/Streamlit-App-green?style=flat-square&link=https://lok-sabha-election-analysis.streamlit.app/)](https://lok-sabha-election-analysis.streamlit.app/)
 
 ---
