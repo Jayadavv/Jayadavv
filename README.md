@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong SQL an
   
   ![Anjani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayadavv&show_icons=true&theme=radical)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayadavv&layout=compact&theme=radical)
+
 
 </div>
 
@@ -85,7 +85,7 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 
 ### 📫 *Connect with Me*
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Anjani%20Nandan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjani-nandan-)](https://www.linkedin.com/in/anjani-nandan-)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jaishree%20Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jaishree-Yadav)](https://www.linkedin.com/in/jaishree-yadav)
 [![GitHub Badge](https://img.shields.io/badge/-anjanicoder-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/anjanicoder)](https://github.com/anjanicoder)
 [![Streamlit Lok Sabha Election App](https://img.shields.io/badge/Streamlit-App-green?style=flat-square&link=https://lok-sabha-election-analysis.streamlit.app/)](https://lok-sabha-election-analysis.streamlit.app/)
 
