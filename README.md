@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong SQL an
 - *Web Scraping & Automation:* Python, Selenium, Beautiful Soup
 - *Cloud Technologies:* Streamlit, REST API Integration, GenAI, Gemini API
 - *Visualization:* Power BI, Plotly, Matplotlib, Seaborn, Streamlit Dashboards
-- *Tools & Libraries:* GeoPandas, Folium, GeoJSON, Google Generative AI
 
 ---
 
