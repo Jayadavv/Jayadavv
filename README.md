@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong SQL an
 
 <div align="center">
   
-  ![Anjani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayadavv&show_icons=true&theme=radical)
+  ![Jaishree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayadavv&show_icons=true&theme=radical)
 
 
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong SQL an
 
 ### 💡 *About Me*
 
-I'm always on a quest to solve data-driven problems and enhance decision-making processes through data insights. My journey has involved working on diverse projects ranging from election data analysis to job market trends, all while leveraging Python, SQL, and cloud-based technologies. I believe in the power of teamwork and collaboration to bring innovative solutions to life.
+I'm always on a quest to solve data-driven problems and enhance decision-making processes through data insights. My journey has involved working on diverse projects ranging from election data analysis to cars24 website analysis, all while leveraging Python, SQL, and cloud-based technologies. I believe in the power of teamwork and collaboration to bring innovative solutions to life.
 
 - 🔭 *Current Project:* Lok Sabha Election Data Analysis using Streamlit and MySQL
 - 🌱 *Learning Focus:* Enhancing my skills in Generative AI and advanced data visualization techniques
@@ -47,12 +47,14 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 - Built an interactive dashboard with Streamlit to visualize election results.
 - Integrated real-time AI insights using the Gemini API and deployed on Streamlit Community Cloud.
 
-#### [LinkedIn Job Market Analysis](https://github.com/anjanicoder/JobDashboard)
+#### [Cars24 Data Analytics](https://github.com/jeeteshwar0786/car_24)
 *Tech Stack:* Power BI | Selenium | Beautiful Soup | Power Query | DAX | Pandas
 
-- Scraped job market data from LinkedIn using Python and Selenium.
-- Cleaned and structured the data with Pandas for analysis.
-- Built an interactive Power BI dashboard to visualize job trends and insights.
+-Conducted web scraping using Selenium and BeautifulSoup to collect comprehensive data on used cars from the Cars24 platform.
+-Cleaned and transformed data to ensure accuracy and usability for analysis, addressing data inconsistencies.
+-Analyzed market trends, pricing dynamics, and consumer preferences to generate actionable insights.
+-Developed interactive PowerBI dashboards to communicate findings and support decision-making processes.
+-Overcame challenges related to dynamic web content and data quality, ensuring reliable data for analysis.
 
 ---
 
