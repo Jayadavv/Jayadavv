@@ -58,7 +58,7 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 
 ### 🎉 *Fun Animations*
 
-![Machine Learning GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FnaWxzOGthYzBuY2UwaGxlazY5Z3UzZnh3bzgweGYxZjZnajAyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6fZ9WNtjNd3Ta2qUVe/giphy.gif)
+![Machine Learning GIF](https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif)
 
 
 
