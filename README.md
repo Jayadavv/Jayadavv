@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong SQL an
 
 <div align="center">
   
-  ![Anjani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjanicoder&show_icons=true&theme=radical)
+  ![Anjani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayadavv&show_icons=true&theme=radical)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanicoder&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayadavv&layout=compact&theme=radical)
 
 </div>
 
