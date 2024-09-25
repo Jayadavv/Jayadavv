@@ -1,8 +1,8 @@
-# Hello, I'm Anjani Nandan! 👋
+# Hello, I'm Jaishree Yadav! 👋
 
-### 🚀 *Dynamic Data Analyst | SQL Expert | Cloud Enthusiast*
+### 🚀 *Dynamic Data Analyst | SQL Expert | Data-Driven Storyteller*
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in SQL, data analytics, and cloud technologies. My expertise spans web scraping, building dynamic dashboards, and integrating AI solutions to uncover meaningful insights from data.
+Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong SQL and data analytics background. My expertise spans web scraping, building dynamic dashboards, and integrating AI solutions to uncover meaningful insights from data.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong backgr
 - *Data Analysis:* Pandas, Numpy, Power BI, DAX, Microsoft Excel, Data Modelling
 - *SQL Mastery:* Advanced SQL (Certified), Complex Query Writing, MySQL, SQL Server
 - *Web Scraping & Automation:* Python, Selenium, Beautiful Soup
-- *Cloud Technologies:* AWS Cloud Architect Certified, Streamlit, REST API Integration, GenAI, Gemini API
+- *Cloud Technologies:* Streamlit, REST API Integration, GenAI, Gemini API
 - *Visualization:* Power BI, Plotly, Matplotlib, Seaborn, Streamlit Dashboards
 - *Tools & Libraries:* GeoPandas, Folium, GeoJSON, Google Generative AI
 
