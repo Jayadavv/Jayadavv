@@ -50,11 +50,11 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 #### [Cars24 Data Analytics](https://github.com/jeeteshwar0786/car_24)
 *Tech Stack:* Power BI | Selenium | Beautiful Soup | Power Query | DAX | Pandas
 
--Conducted web scraping using Selenium and BeautifulSoup to collect comprehensive data on used cars from the Cars24 platform.
--Cleaned and transformed data to ensure accuracy and usability for analysis, addressing data inconsistencies.
--Analyzed market trends, pricing dynamics, and consumer preferences to generate actionable insights.
--Developed interactive PowerBI dashboards to communicate findings and support decision-making processes.
--Overcame challenges related to dynamic web content and data quality, ensuring reliable data for analysis.
+- Conducted web scraping using Selenium and BeautifulSoup to collect comprehensive data on used cars from the Cars24 platform.
+- Cleaned and transformed data to ensure accuracy and usability for analysis, addressing data inconsistencies.
+- Analyzed market trends, pricing dynamics, and consumer preferences to generate actionable insights.
+- Developed interactive PowerBI dashboards to communicate findings and support decision-making processes.
+- Overcame challenges related to dynamic web content and data quality, ensuring reliable data for analysis.
 
 ---
 
