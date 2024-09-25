@@ -76,7 +76,7 @@ I'm always on a quest to solve data-driven problems and enhance decision-making 
 ### 📫 *Connect with Me*
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Jaishree%20Yadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Jaishree-Yadav)](https://www.linkedin.com/in/jaishree-yadav)
-[![GitHub Badge](https://img.shields.io/badge/-anjanicoder-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jayadavv)](https://github.com/Jayadavv)
+[![GitHub Badge](https://img.shields.io/badge/-Jayadavv-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/Jayadavv)](https://github.com/Jayadavv)
 [![Streamlit Lok Sabha Election App](https://img.shields.io/badge/Streamlit-App-green?style=flat-square&link=https://lok-sabha-election-analysis.streamlit.app/)](https://lok-sabha-election-analysis.streamlit.app/)
 
 ---
