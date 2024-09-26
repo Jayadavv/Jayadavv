@@ -68,9 +68,6 @@ A data enthusiast dedicated to solving data-driven problems and enhancing decisi
 ### 🏆 *Certifications & Achievements*
 
 - *HackerRank Moderate SQL*: Expertise in writing complex SQL queries.
-- *Palo Alto Networks Cybersecurity*: Certified in Cybersecurity Fundamentals.
-- *Published Research: *Blockchain Encryption using Biometric Authentication (GRENZE International Journal of Engineering and Technology).
-
 ---
 
 
