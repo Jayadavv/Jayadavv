@@ -30,8 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong SQL an
 
 ### 💡 *About Me*
 
-I'm always on a quest to solve data-driven problems and enhance decision-making processes through data insights. My journey has involved working on diverse projects ranging from election data analysis to cars24 website analysis, all while leveraging Python, SQL, and cloud-based technologies. I believe in the power of teamwork and collaboration to bring innovative solutions to life.
-
+A data enthusiast dedicated to solving data-driven problems and enhancing decision-making processes through insightful analytics. With experience in diverse projects, including election data analysis and Cars24 website analysis, proficiency in Python, SQL, and cloud-based technologies is leveraged to uncover valuable insights. Strongly values teamwork and collaboration to drive innovative solutions.
 - 🔭 *Current Project:* Lok Sabha Election Data Analysis using Streamlit and MySQL
 - 🌱 *Learning Focus:* Enhancing my skills in Generative AI and advanced data visualization techniques
 - 👯 *Looking to Collaborate on:* Data Analytics Projects, AI Integrations, and Cloud Solutions
